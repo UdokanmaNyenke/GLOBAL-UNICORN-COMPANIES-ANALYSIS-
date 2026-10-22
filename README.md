@@ -13,7 +13,7 @@ Interactive Excel dashboard analyzing 1,074 unicorn companies by industry, count
 ## 📊 Dashboard Preview
 
 ### Dashboard Overview
-![Global Unicorn Companies Analysis Dashboard](446f66ce-7a27-4c82-8db1-96da3d72125a.jpg)
+![Global Unicorn Companies Analysis Dashboard] 446f66ce-7a27-4c82-8db1-96da3d72125a.jpeg
 
 ---
 
